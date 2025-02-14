@@ -28,7 +28,7 @@ InsureHub is a comprehensive insurance management system designed to streamline 
 ## Installation  
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/HemantGaikwad7/InsureHub)
    cd InsureHub
    ```  
 2. **Open in NetBeans:**  
@@ -55,7 +55,18 @@ InsureHub is a comprehensive insurance management system designed to streamline 
 
 ## Screenshots  
 ### Dashboard  
-![Dashboard](path/to/dashboard-screenshot.png)  
+![image](https://github.com/user-attachments/assets/4367dc81-cc72-4178-8403-779cbf483d34)
+
+![image](https://github.com/user-attachments/assets/cdcd27af-a9fa-4b07-8972-d6bcc472f78d)
+
+![image](https://github.com/user-attachments/assets/42637651-97f1-4f51-aa5a-f2a718d699b7)
+
+![image](https://github.com/user-attachments/assets/ca6e2d4a-a484-4a44-9728-e936a75e3316)
+
+![image](https://github.com/user-attachments/assets/55ed1439-9bc6-497d-96c1-262f858a1bfb)
+
+
+![image](https://github.com/user-attachments/assets/62cd8e49-1bb0-44d0-b249-aa2462adce78) 
 
 ## Contributions  
 Contributions are welcome! Feel free to fork this repository and submit pull requests.  
@@ -68,9 +79,5 @@ This project is licensed under the MIT License.
 - Email functionality powered by **Jakarta Mail**  
 - Special thanks to the development team and all contributors.  
 
-![image](https://github.com/user-attachments/assets/4367dc81-cc72-4178-8403-779cbf483d34)
 
-![image](https://github.com/user-attachments/assets/cdcd27af-a9fa-4b07-8972-d6bcc472f78d)
-
-![image](https://github.com/user-attachments/assets/62cd8e49-1bb0-44d0-b249-aa2462adce78)
 
